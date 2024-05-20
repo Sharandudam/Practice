@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head
+    <meta charset="UTF-8" />
+    <title>MY STORE</title>
+</head>
+    <h1>MOBILE SHOWROOM</h1>
+    <h2>SMART RANGE OF COLLECTIONS</h2>
+
+<body>
+<table border="3">
+<tr>
+<th>MOBILE NAME</th>
+<th>DESCRIPTION</th>
+<th>FOR MORE DETAILS</th>
+</tr>
+<tr>
+<th>SAMSUNG Galaxy S24 Ultra 5G (Titanium GREY, 256 GB)  (12 GB RAM)</th>
+<td><br>Highlights
+    <br>12 GB RAM | 256 GB ROM
+    <br>17.27 cm (6.8 inch) Quad HD+ Display
+    <br>200MP + 50MP + 12MP + 10MP | 12MP Front Camera
+    <br>5000 mAh Battery
+    <br>Snapdragon 8 Gen 3 Processor
+    <br>Price:1,29,999</td>    
+<td><a href="https://www.amazon.in/Samsung-Galaxy-Smartphone-Titanium-Storage/dp/B0CS5XW6TN/ref=sr_1_2_sspa?crid=O2EQXONICCUC&dib=eyJ2IjoiMSJ9.b8qvpLszDCpUU018_W57z9Xl1UWIqFdvhhgSU8H9iblIM9D5J9GX92uAshrSnIOU5kzEqU_AgOunQny7n48w9kZNsXBmYjxZ_22_g-Letx2WfnM7qUswrPE0CO0zO2RJvZX8J2-pmDkp5eTQnV3OoqsIHWLKFOzvT2zL6J3-j2Yr_MUP4CMmrXDA5KKIUBqA_x6kwJllQAWNlz3SpI16S11EwBgkDOlQ1herSc7dIdc.zIXoNDzox4zt3BmdCZg_ZHW4sx2ZrWbKbmVJiXxVSKI&dib_tag=se&keywords=samsung%2Bs24&qid=1716188308&sprefix=samsu%2Caps%2C214&sr=8-2-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">CLICK HERE</a></td>
+</tr>
+<tr>    
+<th>Samsung Galaxy S24 Plus 5G AI Smartphone (Cobalt Violet, 12GB, 512GB Storage)</th>
+<td><br>Highlights
+    <br>12 GB RAM | 512 GB ROM
+    <br>17.02 cm (6.7 inch) Quad HD+ Display
+    <br>50MP + 10MP + 12MP | 12MP Front Camera
+    <br>4900 mAh Battery
+    <br>Exynos 2400 Processor
+    <br>Price:1,09,999</td>
+<td><a href="https://www.amazon.in/Samsung-Galaxy-Smartphone-Cobalt-Storage/dp/B0CS6DTNH8/ref=sr_1_1_sspa?crid=1U1A371FOSJVE&dib=eyJ2IjoiMSJ9.b8qvpLszDCpUU018_W57z9Xl1UWIqFdvhhgSU8H9iblIM9D5J9GX92uAshrSnIOU5kzEqU_AgOunQny7n48w9kZNsXBmYjxZ_22_g-Letx2WfnM7qUswrPE0CO0zO2RJbL-aRFyq0JJb02Zw6uohRgD_s08P3qyNAIliByht6ocxS8ENvxbmEyld1ySPwmnBIOP4t8dDsUM_hJHpl4GwuimhXjtRiJxZ8D4S5xRKIy0.O8V_DNTjiTUofWUmE00OP1RD2Ja2zN0Y20-mMzLXmoE&dib_tag=se&keywords=samsung%2Bs24&qid=1716189624&sprefix=samsung%2Bs24%2Caps%2C250&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1">CLICK HERE</a></td>    
+</tr>
+<tr>
+<th>SAMSUNG Galaxy S24 5G (Cobalt Violet, 256 GB)  (8 GB RAM)</th> 
+<td><br>Highlights
+    <br>8 GB RAM | 256 GB ROM
+    <br>15.75 cm (6.2 inch) Full HD+ Display
+    <br>50MP + 10MP + 12MP | 12MP Front Camera
+    <br>4000 mAh Battery
+    <br>Exynos 2400 Processor
+    <br>Price:79,999</td>
+<td><a href="https://www.flipkart.com/samsung-galaxy-s24-5g-cobalt-violet-256-gb/p/itme4c78903b0c9f?pid=MOBGX2F3GNSJZ23R&lid=LSTMOBGX2F3GNSJZ23REJ6ZQ8&marketplace=FLIPKART&q=samsung+s24&store=tyy%2F4io&srno=s_1_5&otracker=search&otracker1=search&fm=search-autosuggest&iid=1971d89d-f0b1-4edc-a1b7-78dedea31b32.MOBGX2F3GNSJZ23R.SEARCH&ppt=sp&ppn=sp&ssid=8i68hijbdc0000001716189904453&qH=d5d05f693bde4793">CLICK HERE</a></td>       
+</tr>
+</table>
+</body>
+</html>
