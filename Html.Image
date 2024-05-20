@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html
+<head>
+    <title>IMAGE IN HTML</title>
+</head>
+<body>
+<h1>Virat Kohli</h1>
+<img src="https://gumlet.assettype.com/freepressjournal/2019-08/73f24ccc-2af8-477e-885e-80c90e7b7bd0/Virat_Kohli_century.jpg?rect=0%2C0%2C3228%2C1816/Virat_Kohli_century.jpg" alt="Virat_Kohli_century"width=500
+height="500" align="center" />
+    
+</body>
+</html>
