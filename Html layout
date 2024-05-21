@@ -2,55 +2,63 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, intial-scale=1.0"
-    <title>Html Layout</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Html Layout </title>
     <style>
-        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
-"{        
-        box-sizing: border-box;
+    @import url('https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap'););
+"{
+    box-sizing: border-box; 
 }
 body{
-    font-family: "Playfair Display", serif;
-}
+    font-family:"Noto Sans", sans-serif ;
+}        
 header{
-    background-color: blueviolet;
+    background-color: burlywood;
     padding: 35px;
     text-align: center;
     font-size: 30px;
+
 }
-nav{
+    nav{
     float: left;
-    width: 30%;
-    height: 400px;
-    background-color: burlywood;
+    width: 100%;
+    height: 200px;
+    background-color: brown;
     padding: 20px;
+    font-size: 25px;
+
 }
 nav ul{
     list-style-type: none;
-    padding: 0%;
-} 
-article{
-    float: right;
-    padding: 20px;
-    width: 70%
-    background-color: cadetblue;
-    height: 400px;   
+    padding: 0;
+
 }
-section ::after{
+article{
+    float: left;
+    padding: 20px;
+    width: 100%;
+    background-color: chartreuse;
+    height: 200px;
+
+}
+section::after{
     content: " ";
     display: table;
     clear: both;
-}       
-    </style>
+}
+footer{
+    background-color: cornflowerblue;
+    padding: 10px;
+    text-align: center;
+}
+</style>
 </head>
 <body>
-    <h1>Html Layout</h1>
-    <h2>Header</h2>
-    <p>A life insurance policy refers to the contract between an insurance provider and an individual,[1]. As per the agreement, the policyholders pay a certain amount as the policy premium while the insurer pays a specific amount to their family on untimely demise of life insured.
-
-        With death being the only sure thing in life, it is crucial to buy the best life insurance policy that suits your financial needs.</p>
+    <h1> Html Layout </h1>
+    <h2> Header part </h2>
+    <p>Cricket is a bat-and-ball game that is played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps. Two players from the batting team (the striker and nonstriker) stand in front of either wicket, with one player from the fielding team (the bowler) bowling the ball</p>
 <header>
-    <h2>Insurance Page</h2>
+    <h2> cricket Page </h2>
 </header>
 <section>
     <nav>
@@ -60,18 +68,13 @@ section ::after{
             <li><a href="#"> Support </a></li>
         </ul>
     </nav>
-<article>
-    <h1>Insurance Basic</h1>
-    <p>life insurance policy refers to the contract between an insurance provider and an individual,[1]. As per the agreement, the policyholders pay a certain amount as the policy premium while the insurer pays a specific amount to their family on untimely demise of life insured.
-
-        With death being the only sure thing in life, it is crucial to buy the best life insurance policy that suits your financial needs.</p>
-    <p>life insurance policy refers to the contract between an insurance provider and an individual,[1]. As per the agreement, the policyholders pay a certain amount as the policy premium while the insurer pays a specific amount to their family on untimely demise of life insured.
-
-        With death being the only sure thing in life, it is crucial to buy the best life insurance policy that suits your financial needs.</p>
-</article>        
+    <article>
+        <h1> Cricket Basic </h1>
+        <p>Cricket is a bat-and-ball game that is played between two teams of eleven players on a field at the centre of which is a 22-yard (20-metre) pitch with a wicket at each end, each comprising two bails balanced on three stumps. Two players from the batting team (the striker and nonstriker) stand in front of either wicket, with one player from the fielding team (the bowler) bowling the ball</p>
+    </article>
 </section>
 <footer>
-    <p> Insurance Page </p>
-</footer>            
+    <p> Cricket Page </p>
+</footer>    
 </body>
 </html>
