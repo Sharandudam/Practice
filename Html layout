@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, intial-scale=1.0"
+    <title>Html Layout</title>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+"{        
+        box-sizing: border-box;
+}
+body{
+    font-family: "Playfair Display", serif;
+}
+header{
+    background-color: blueviolet;
+    padding: 35px;
+    text-align: center;
+    font-size: 30px;
+}
+nav{
+    float: left;
+    width: 30%;
+    height: 400px;
+    background-color: burlywood;
+    padding: 20px;
+}
+nav ul{
+    list-style-type: none;
+    padding: 0%;
+} 
+article{
+    float: right;
+    padding: 20px;
+    width: 70%
+    background-color: cadetblue;
+    height: 400px;   
+}
+section ::after{
+    content: " ";
+    display: table;
+    clear: both;
+}       
+    </style>
+</head>
+<body>
+    <h1>Html Layout</h1>
+    <h2>Header</h2>
+    <p>A life insurance policy refers to the contract between an insurance provider and an individual,[1]. As per the agreement, the policyholders pay a certain amount as the policy premium while the insurer pays a specific amount to their family on untimely demise of life insured.
+
+        With death being the only sure thing in life, it is crucial to buy the best life insurance policy that suits your financial needs.</p>
+<header>
+    <h2>Insurance Page</h2>
+</header>
+<section>
+    <nav>
+        <ul>
+            <li><a href="#"> Home </a></li>
+            <li><a href="#"> About </a></li>
+            <li><a href="#"> Support </a></li>
+        </ul>
+    </nav>
+<article>
+    <h1>Insurance Basic</h1>
+    <p>life insurance policy refers to the contract between an insurance provider and an individual,[1]. As per the agreement, the policyholders pay a certain amount as the policy premium while the insurer pays a specific amount to their family on untimely demise of life insured.
+
+        With death being the only sure thing in life, it is crucial to buy the best life insurance policy that suits your financial needs.</p>
+    <p>life insurance policy refers to the contract between an insurance provider and an individual,[1]. As per the agreement, the policyholders pay a certain amount as the policy premium while the insurer pays a specific amount to their family on untimely demise of life insured.
+
+        With death being the only sure thing in life, it is crucial to buy the best life insurance policy that suits your financial needs.</p>
+</article>        
+</section>
+<footer>
+    <p> Insurance Page </p>
+</footer>            
+</body>
+</html>
