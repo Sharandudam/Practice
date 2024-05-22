@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Margins </title>
+    <style>
+        div{
+            width: 200px;
+            height:200px;
+            background-color: blue;
+            border: 3px solid black;
+            margin: 50px;
+    }
+    </style>
+</head>
+<body>
+    <div>
+        To create space around elements, outside the borders. To  create space aroud elements, outside the borders.
+    </div>
+    <h1>To create space around elements, outside the borders. To  create space aroud elements, outside the borders.</h1>
+    
+</body>
+</html>
