@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Basic CSS/ Selectors</title>
+    <style>/* css starts */ 
+    h1{
+        color: burlywood;
+        background-color: cadetblue;
+        font-size: 50px;
+    }
+    p{
+        color: wheat;
+        background-color: thistle;
+    }
+    .one{
+        color: blueviolet;
+        background-color: brown;
+    }
+    #two{
+        color: chartreuse;
+        background-color: chocolate;
+    }
+    .three{
+        color: blue;
+        background-color: cornflowerblue;
+    }
+    </style>
+</head>
+<body> <!---html part-->
+    <h1> Selectors </h1>
+    <p> Simple selectors <br> Combinator selectors <br> Pseudo-class selectors <br> Pseudo-elements selectors <br> Attribute selectors</p>
+<div class="one">
+    Simple selectors <br> Combinator selectors <br> Pseudo-class selectors <br> Pseudo-elements selectors <br> Attribute selectors
+</div>
+<div id=two>
+    Simple selectors <br> Combinator selectors <br> Pseudo-class selectors <br> Pseudo-elements selectors <br> Attribute selectors
+</div>    
+<p class="three">
+    Simple selectors <br> Combinator selectors <br> Pseudo-class selectors <br> Pseudo-elements selectors <br> Attribute selectors</p>
+</body>
+</html>
