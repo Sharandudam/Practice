@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Background</title>
+    <style>
+        body{
+            background-image: url(https://www.pixelstalk.net/wp-content/uploads/2016/07/Free-Amazing-Background-Images-Nature.jpg);
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-position: center;
+        }
+h1{
+    background-color: aqua;
+    opacity: 0.3;
+}
+h2{
+    background-color: blueviolet;
+    opacity: 0.6;
+}
+h3{
+    background-color: chartreuse;
+    opacity: 0.8;
+}
+    </style>
+</head>
+<body>
+    <h1>Background</h1>
+    <h2>Background</h2>
+    <h3>Background</h3>    
+</body>
+</html>
