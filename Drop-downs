@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Drop-downs </title>
+    <style>
+        .dropbtn{
+            background-color: burlywood;
+            color: rgb(129, 133, 122);
+            padding: 18px;
+            font-size: 20px;
+            border: 3px solid black;
+            cursor: pointer;
+        }
+        .dropdown{
+            position: relative;
+            display: inline-block;
+        }
+        .items{
+            position: absolute;
+            background-color: rgb(110, 96, 110);
+            min-width: 180px;
+            box-shadow: 0 8px 18px rgb(32, 24, 24);
+        }
+        .items a{
+            color: black;
+            padding: 14px 18px;
+            
+        }
+        .items a:hover{
+            background-color: cadetblue;
+
+        }
+        .dropdown:hover .items{
+            display: block;
+        }
+        .dropdown:hover .dropbtn{
+            background-color: tomato;
+        }
+    </style>
+</head>
+<body>
+    <h1> Drop-downs </h1>
+    <div class="dropdown">
+        <button class="dropbtn"> Languages </button>
+        <div class="items">
+            <a href="#"> Telugu </a>
+            <br><a href="#"> Hindi </a>
+            <br><a href="#"> English </a>
+        </div>
+    </div>
+</body>
+</html>
