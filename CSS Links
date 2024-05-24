@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> CSS Links</title>
+    <style>
+        a{
+            color: blueviolet;
+            background-color: orangered;
+            padding: 20px;
+            margin: 25px;
+        }
+        a:hover{
+            background-color: yellowgreen;
+        }
+    </style>
+</head>
+<body>
+    <h1> CSS Links </h1>
+    <a href="https://github.com/Sharandudam/Practice" > My Github </a>
+</body>
+</html>
