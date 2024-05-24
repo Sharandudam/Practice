@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Text-Shadow</title>
+    <style>
+        h1{
+            text-shadow: 6px 6px 6px blueviolet, 7px 7px 7px red;
+        }
+    </style>
+</head>
+<body>
+    <h1> Text-Shadow </h1>
+</body>
+</html>
