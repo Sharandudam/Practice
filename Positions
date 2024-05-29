@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title> Positions </title>
+    <style>
+    .static{
+    position: static;
+    border: 2px solid greenyellow;
+    right: 20px;
+    left: 20px;
+    }
+    .relative{
+        position: relative;
+        border: 3px solid black;
+        left: 40px;
+    }
+    .fixed{
+        position: fixed;
+        border: 3px solid blueviolet;
+        right: 65px;
+        width: 100px;
+
+    }
+    .absolute{
+        position: absolute;
+        border: 3px solid palevioletred;
+        bottom: 100px;
+        right: 50px;
+
+    }
+    .sticky{
+        position: sticky;
+        border: 5px solid gray;
+        position: -webkit-sticky;
+        top: 50px;
+
+
+    }
+    </style>
+</head>
+<body>
+    <h1> Position </h1>
+    <div class="static">
+    It is not affected by the Position, It is default.
+    </div>
+    <div class="relative">
+        It is moved according to top, bottom, right, left
+    </div>
+    <div class="fixed">
+        It is Fixed
+    </div>
+    <div class="absolute">
+        It is placed to the nearest position
+    </div>
+    <div class="sticky">
+        It is sticky to the top
+    </div>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+    <p>stories to Grow By provides free education news and teaching resources! Over 100 stories, readers theater play scripts, lesson plans, teaching materials, and more completely free for educators! Whether you are a teacher, school administrator, or an educator of any kind - our free education news and resources can help you create meaningful, engaging lessons. Our resources are Educator Approved, guaranteed to help you in your classroom.</p>
+</body>
+</html>
