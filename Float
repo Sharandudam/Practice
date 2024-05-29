@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Float </title>
+    <style>
+        img{
+            float: right;
+        }
+    </style>
+</head>
+<body>
+    <h1> Float </h1>
+    <p> <img src="https://th.bing.com/th/id/OIP.Pf2p3qw7OLntwU0Ld4tWewHaFj?w=301&h=181&c=7&r=0&o=5&pid=1.7" alt="Tiger" height="500px" width="500px">
+        The tiger (Panthera tigris) is the largest living cat species and a member of the genus Panthera native to Asia. It has a powerful, muscular body with a large head and paws, a long tail, and orange fur with black, mostly vertical stripes. It is traditionally classified into nine recent subspecies, though some recognise only two subspecies, namely mainland Asian tigers and island tigers of the Sunda Islands.
+    </p>
+    </body>
+</html>
