@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Clear </title>
+    <style>
+        .one{
+            float: left;
+            padding: 15px;
+            border: 5px solid brown;
+        }
+        .two{
+            padding: 15px;
+            border: 5px solid black;
+        }
+        .three{
+            float: left;
+            padding: 15px;
+            border: 5px solid greenyellow;
+        }
+        .four{
+            padding: 15px;
+            border: 5px solid green;
+            clear: left;
+        }
+    </style>
+</head>
+<body>
+    <h1> Without clear </h1>
+    <div class="one">
+        without clear
+    </div>
+    <div class="two">
+        ith the clock ticking towards the mega event, cricket enthusiasts have come up with predictions for who will make the cut and reach the semi-finals in the 20-team tournament. For those unfamiliar, the tournament will be played in a new format, which will see the teams divided into four groups, with the top two advancing to the Super Eight, where the teams will be divided into two groups ahead 
+    </div>
+    <br>
+    <br>
+    <br>
+    <div class="three">
+        with clear
+    </div>
+    <div class="four">
+        ith the clock ticking towards the mega event, cricket enthusiasts have come up with predictions for who will make the cut and reach the semi-finals in the 20-team tournament. For those unfamiliar, the tournament will be played in a new format, which will see the teams divided into four groups, with the top two advancing to the Super Eight, where the teams will be divided into two groups ahead 
+    </div>
+</body>
+</html>
