@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Amazon Prime navbar Clone </title>
+</head>
+<body>
+    <header class="navbar">
+        <div class="navbar__logo">
+            <img src="Amazon_Prime_Video_blue_logo_1.svg.png" alt="Amazon Prime Logo" height="50px">
+        </div>
+        <div class="navbar__search">
+            <input type="text" placeholder="search"
+        </div>
+        <nav class="navbar__links">
+            <a href="#">Home</a>
+            <a href="#">TV Shows</a>
+            <a href="#">Movies</a>
+            <a href="#">Kids</a>
+            <a href="#">Channels</a>
+            <a href="#">My stuff</a>
+        </nav>
+        <div class="navbar__profile">
+            <img src="User Profile.jpeg" alt="User Profile" height="50px">
+        </div>
+    </header>
+</body>
+</html>
